@@ -56,15 +56,18 @@ Developed and maintained the official website for the Interschool Olympiad & Spo
 
 ## 💼 Work Experience
 
+
+**Web Development Intern** | Addensure Media LLP *(Delhi, India)*
+- Engineered 20+ reusable UI components using React.js, improving development efficiency by 30% and ensuring fully responsive design across devices.
+- Developed and optimized 5+ WordPress websites, including custom themes and plugins, reducing page load time by 25% and improving SEO performance.
+- Integrated REST APIs and third-party services, handling 50+ dynamic data endpoints for seamless frontend-backend communication.
+- Enhanced mobile application performance using React Native, optimizing rendering and reducing app load time by 20%, leading to better user engagement.
+- Collaborated in an agile environment, contributing to 10+ feature releases and resolving critical UI/UX issues.
+  
 **Software Developer Intern** | MentorsLand *(April 2025 - September 2025)*
 - Built a customizable rich-text editor using Tiptap.js, streamlining content management.
 - Achieved a **76% faster page load time** through frontend performance optimization.
 - Designed an interactive dashboard with efficient state management (Redux) and API integration.
-
-**Web Development Intern** | Addensure Media LLP *(Delhi, India)*
-- Developed modern UI components with React.js and maintained responsive WordPress sites.
-- Built and customized WordPress themes/plugins to meet client requirements.
-- Leveraged React Native to enhance mobile application features and usability.
 
 ---
 
