@@ -1,42 +1,90 @@
-# Hi, I'm Bikash Krishna Panga 👋
+# 👋 Hi, I'm Bikash Krishna Panga
 
-## 🚀 Full-Stack Developer | Computer Science Engineering Student
+🎓 **Computer Science Engineering Student** | 💻 **Full-Stack Web Developer**
 
-I am a passionate full-stack web developer, currently studying **Computer Science Engineering**. I love building scalable and efficient applications, exploring new technologies, and working with modern web technologies.
-
-## 🌱 What I'm Learning
-- **TypeScript** – Strongly typed JavaScript for better development experience.
-- **Rust** – Exploring low-level programming for performance and safety.
-- **Blockchain Development** – Learning Solidity, Hardhat, and Web3.js for smart contracts.
-- **Next.js** – Enhancing React applications with server-side rendering and static site generation.
-- **NextAuth** – Implementing authentication solutions for Next.js applications.
-
-## 🛠 Technologies & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
-## 💋 How to Reach Me
-- **GitHub:** [BIKASHKRISHNAPANGA](https://github.com/BIKASHKRISHNAPANGA)
-- **LinkedIn:** [bikash-krishna-panga](https://www.linkedin.com/in/bikash-krishna-panga-254612232)
-- **Email:** developerbikash16@gmail.com
-
-🚡 **Fun Fact:** I enjoy solving coding problems, learning new frameworks, and making life easier with automation!
+I'm a passionate Full-Stack Web Developer with a strong foundation in building scalable dashboards, customizable rich-text editors, and high-performance web applications. Currently in my final year of B.Tech, I enjoy turning complex problems into simple, beautiful, and intuitive designs. I'm always eager to learn new technologies and contribute to impactful projects.
 
 ---
 
-🚀 **Let's build something amazing together!**
+## 🚀 My Tech Stack
 
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 🌾 [Bikash Agro Export](https://bikashpanga-agroexports.netlify.app/)
+A fully responsive agricultural export website designed to boost lead generation.
+- **Tech Stack:** JavaScript, Intersection Observer API, HTML5, CSS3
+- **Highlights:** Mobile-first design, click-to-call/WhatsApp integration, and optimized DOM handling for fast load times.
+
+### 📝 [MentorsLand - Rich Text Editor](https://github.com/BIKASHKRISHNAPANGA)
+Engineered a customizable rich-text editor to enhance content management capabilities.
+- **Tech Stack:** React.js, Tiptap.js, REST APIs
+- **Impact:** Optimized frontend performance, achieving a **76% reduction** in page load time.
+
+### 🏫 [IOSF Website](https://www.interschoolosf.in/)
+Developed and maintained the official website for the Interschool Olympiad & Sports Fest.
+- **Tech Stack:** React.js, Tailwind CSS, REST APIs
+- **Impact:** Improved website performance and user engagement during peak event registration periods.
+
+---
+
+## 💼 Work Experience
+
+**Software Developer Intern** | MentorsLand *(April 2025 - September 2025)*
+- Built a customizable rich-text editor using Tiptap.js, streamlining content management.
+- Achieved a **76% faster page load time** through frontend performance optimization.
+- Designed an interactive dashboard with efficient state management (Redux) and API integration.
+
+**Web Development Intern** | Addensure Media LLP *(Delhi, India)*
+- Developed modern UI components with React.js and maintained responsive WordPress sites.
+- Built and customized WordPress themes/plugins to meet client requirements.
+- Leveraged React Native to enhance mobile application features and usability.
+
+---
+
+## 🎓 Education & Achievements
+
+- **B.Tech in Computer Science Engineering** | Gayatri Institute of Engineering and Technology *(2022 - 2026)*
+  - Ranked in the **top 5%** of the batch.
+- **Certification:** The Complete Full-stack Web Development BootCamp by Dr. Angela Yu *(Jan 2025)*
+- **Achievement:** Runner-up at the Ganjam Coding Competition (Problem-solving & Algorithms).
+- **Achievement:** Secured **3 sponsorships** and coordinated outreach with **30+ schools** for academic initiatives.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 **LinkedIn:** [bikash-krishna-panga](https://www.linkedin.com/in/bikash-krishna-panga-254612232/)
+- 🐙 **GitHub:** [BIKASHKRISHNAPANGA](https://github.com/BIKASHKRISHNAPANGA)
+- 🌐 **Portfolio:** [bikashportfolio.web.app](https://bikashportfolio.web.app)
+- 📧 **Email:** developerbikash16@gmail.com
+
+---
+
+⭐️ **Fun Fact:** I love leveraging AI tools like ChatGPT, GitHub Copilot, and Gemini to boost productivity and solve complex coding challenges faster. Let's build something amazing together!
